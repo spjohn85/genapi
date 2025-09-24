@@ -1,0 +1,18 @@
+[project]
+name = "apim_generator"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "John Williams", email = "spjohn85@gmail.com"},
+]
+readme = "README.md"
+dependencies = [
+    "google-adk==1.10.0",
+    "litellm==1.74.7",
+    "arize-otel==0.10.0",
+    "openinference-instrumentation-litellm==0.1.25",
+    "pinecone==7.3.0",
+    "llama-index==0.14.1"
+]
+
+requires-python = ">=3.12,<3.13"

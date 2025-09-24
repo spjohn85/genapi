@@ -1,0 +1,5 @@
+google-cloud-storage
+pinecone>=7.3.0
+google-genai
+requests
+pyyaml
