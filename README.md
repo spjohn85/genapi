@@ -4,6 +4,10 @@ GenAPI empowers you to design, deploy, and publish APIs effortlessly, even witho
 
 [Working Demo](https://youtu.be/r9fUBc_rZDY)
 
+[GenAPI](https://genapi.apiprimer.com)
+
+[Developer Portal](https://developer.apiprimer.com)
+
 ## Features
 
 *   **AI-Powered API Design:**  Describe your API requirements in natural language and let the agent generate the OpenAPI specification.
